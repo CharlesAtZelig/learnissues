@@ -1,6 +1,6 @@
 ##Feature 
 
-<!--- Title: 
+<!--- Feature Title: 
 
 <!--- Provide a general summary of the desired feature -->
 
@@ -11,6 +11,7 @@
 
 ## Context (Environment, product version, etc.)
 <!--- How has this issue affected you? What are you trying to accomplish? -->
+
 <!--- Providing context helps us come up with a solution that is closest to your needs -->
 
 
@@ -20,5 +21,7 @@
 ## Tracking information
 
 <!--- Developer name -->
+
 <!--- Time Estimate for implementation -->
+
 <!--- Total time spent on implementation -->

@@ -7,7 +7,6 @@
 ## Expected Behavior
 <!--- Tell us what should happen -->
 
-
 ## Current Behavior
 <!--- Tell us what happens instead of the expected behavior -->
 
@@ -18,8 +17,10 @@
 2.
 3.
 
-## Context (Environment, product version, etc.)
-<!--- How has this issue affected you? What are you trying to accomplish? -->
+## Describe the context ()
+<!--- Environment, product version, etc. -->
+
+<!--- Describe what you are trying to accomplish and how How  this issue affects youre work-->
 <!--- Providing context helps us come up with a solution that is closest to your needs -->
 
 
@@ -28,6 +29,6 @@
 
 ## Tracking information
 
-<!--- Developer name -->
-<!--- Time Estimate for fix -->
-<!--- Total time spent on fix -->
+<!--- Developer  -->
+<!--- Time Estimate for fix -->    [ ]
+<!--- Total time spent on fix -->  [ ]

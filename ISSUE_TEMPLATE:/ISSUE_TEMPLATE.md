@@ -1,6 +1,6 @@
-##Ticket with time tracker
+## Issue with time tracker
 
-<!--- Title: 
+<!--- Title:
 
 <!--- Provide a general summary of the issue -->
 
@@ -27,8 +27,8 @@
 ## Possible Implementation
 <!--- Optional:  suggestions to resolve the issue -->
 
-## Tracking information
+## Issue Tracking information
 
-<!--- Developer  -->
+<!--- Assigned developer -->
 <!--- Time Estimate for fix -->    [ ]
 <!--- Actual time spent on fix -->  [ ]

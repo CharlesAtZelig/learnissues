@@ -35,6 +35,6 @@
 <!--- Optional:  suggestions to resolve the issue -->
 
 ## Issue Tracking information
-<!--- Assigned developer -->
-<!--- Time Estimate for fix -->    [ ]
+<!--- Assigned developer --> [ ]
+<!--- Time Estimate for fix --> [ ]   
 <!--- Actual time spent on fix -->  [ ]
